@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="xml/icons.xml">icons.xml</file>
+    </qresource>
+</RCC>

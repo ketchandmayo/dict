@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<icon id="0" name="EXT_ABONENT" >
+	<bound_rect x="-10" y="-30" w="20" h="30" />
+		<element type="polyline" id="1" >
+			<pen style="SolidLine" color_red="0" color_green="196" color_blue="0"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-10" y="0" />
+			<point x="10" y="0" />
+		</element>
+		<element type="polyline" id="2" >
+			<pen style="SolidLine" color_red="0" color_green="196" color_blue="0"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="0" y="-20" />
+			<point x="0" y="0" />
+		</element>
+		<element type="polyline" id="3" >
+			<pen style="SolidLine" color_red="0" color_green="196" color_blue="0"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-5" y="-25" />
+			<point x="5" y="-15" />
+		</element>
+		<element type="polyline" id="4" >
+			<pen style="SolidLine" color_red="0" color_green="196" color_blue="0"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-5" y="-30" />
+			<point x="10" y="-15" />
+		</element>
+	</icon>
+	<icon id="1" name="AIRDROM_SVOJ_OSNOV" >
+	<bound_rect x="-10" y="-10" w="20" h="20" />
+		<element type="ellipse" id="1" >
+			<pen style="SolidLine" color_red="0" color_green="196" color_blue="0"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-10" y="-10" />
+			<size w="20" h="20" />
+		</element>
+		<element type="polyline" id="2" >
+			<pen style="SolidLine" color_red="0" color_green="196" color_blue="0"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-2.5" y="-9" />
+			<point x="-2.5" y="9" />
+		</element>
+		<element type="polyline" id="3" >
+			<pen style="SolidLine" color_red="0" color_green="196" color_blue="0"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="2.5" y="-9" />
+			<point x="2.5" y="9" />
+		</element>
+	</icon>
+	<icon id="2" name="AIRDROM_SVOJ_ZAPAS" >
+	<bound_rect x="-10" y="-10" w="20" h="20" />
+		<element type="ellipse" id="1" >
+			<pen style="SolidLine" color_red="196" color_green="196" color_blue="196"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-10" y="-10" />
+			<size w="20" h="20" />
+		</element>
+		<element type="polyline" id="2" >
+			<pen style="SolidLine" color_red="196" color_green="196" color_blue="196"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-2.5" y="-9" />
+			<point x="-2.5" y="9" />
+		</element>
+		<element type="polyline" id="3" >
+			<pen style="SolidLine" color_red="196" color_green="196" color_blue="196"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="2.5" y="-9" />
+			<point x="2.5" y="9" />
+		</element>
+	</icon>
+	<icon id="3" name="AIRDROM_SOSED" >
+	<bound_rect x="-10" y="-10" w="20" h="20" />
+		<element type="ellipse" id="1" >
+			<pen style="SolidLine" color_red="196" color_green="98" color_blue="0"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-10" y="-10" />
+			<size w="20" h="20" />
+		</element>
+		<element type="polyline" id="2" >
+			<pen style="SolidLine" color_red="196" color_green="98" color_blue="0"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-2.5" y="-9" />
+			<point x="-2.5" y="9" />
+		</element>
+		<element type="polyline" id="3" >
+			<pen style="SolidLine" color_red="196" color_green="98" color_blue="0"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="2.5" y="-9" />
+			<point x="2.5" y="9" />
+		</element>
+	</icon>
+	<icon id="4" name="AIRDROM_ENEMY" >
+	<bound_rect x="-10" y="-10" w="20" h="20" />
+		<element type="ellipse" id="1" >
+			<pen style="SolidLine" color_red="98" color_green="98" color_blue="196"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-10" y="-10" />
+			<size w="20" h="20" />
+		</element>
+		<element type="polyline" id="2" >
+			<pen style="SolidLine" color_red="98" color_green="98" color_blue="196"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-2.5" y="-9" />
+			<point x="-2.5" y="9" />
+		</element>
+		<element type="polyline" id="3" >
+			<pen style="SolidLine" color_red="98" color_green="98" color_blue="196"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="2.5" y="-9" />
+			<point x="2.5" y="9" />
+		</element>
+	</icon>
+	<icon id="5" name="AIROBJECT_SVOJ" >
+	<bound_rect x="-4" y="-17" w="8" h="18" />
+		<element type="polyline" id="1" >
+			<pen style="SolidLine" color_red="0" color_green="255" color_blue="0"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-4" y="-13" />
+			<point x="0" y="-17" />
+			<point x="4" y="-13" />
+		</element>
+		<element type="polyline" id="2" >
+			<pen style="SolidLine" color_red="0" color_green="255" color_blue="0"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="0" y="-17" />
+			<point x="0" y="0" />
+		</element>
+		<element type="rect" id="3" >
+			<pen style="SolidLine" color_red="0" color_green="255" color_blue="0"  width="0" />
+			<brush style="SolidPattern" color_red="0" color_green="255" color_blue="0"  />
+			<point x="-1" y="-1" />
+			<size w="2" h="2" />
+		</element>
+	</icon>
+	<icon id="6" name="AIROBJECT_ENEMY" >
+	<bound_rect x="-4" y="-17" w="8" h="18" />
+		<element type="polyline" id="1" >
+			<pen style="SolidLine" color_red="128" color_green="128" color_blue="255"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="0" y="0" />
+			<point x="0" y="-17" />
+		</element>
+		<element type="polyline" id="2" >
+			<pen style="SolidLine" color_red="128" color_green="128" color_blue="255"  width="0" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-4" y="-12" />
+			<point x="4" y="-12" />
+		</element>
+		<element type="rect" id="3" >
+			<pen style="SolidLine" color_red="128" color_green="128" color_blue="255"  width="0" />
+			<brush style="SolidPattern" color_red="64" color_green="64" color_blue="128"  />
+			<point x="-1" y="-1" />
+			<size w="2" h="2" />
+		</element>
+	</icon>
+	<icon id="7" name="GROUP_OWN" >
+	<bound_rect x="-6" y="-20" w="12" h="20" />
+		<element type="polygon" id="1" >
+			<pen style="SolidLine" color_red="0" color_green="255" color_blue="0"  width="2" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-2" y="0" />
+			<point x="2" y="0" />
+			<point x="2" y="-15" />
+			<point x="6" y="-15" />
+			<point x="0" y="-20" />
+			<point x="-6" y="-15" />
+			<point x="-2" y="-15" />
+		</element>
+	</icon>
+	<icon id="8" name="GROUP_ENEMY" >
+	<bound_rect x="-6" y="-20" w="12" h="20" />
+		<element type="polygon" id="1" >
+			<pen style="SolidLine" color_red="98" color_green="98" color_blue="196"  width="2" />
+			<brush style="NoBrush" color_red="0" color_green="0" color_blue="0"  />
+			<point x="-2" y="0" />
+			<point x="2" y="0" />
+			<point x="2" y="-15" />
+			<point x="6" y="-15" />
+			<point x="0" y="-20" />
+			<point x="-6" y="-15" />
+			<point x="-2" y="-15" />
+		</element>
+	</icon>
+</catalog>
